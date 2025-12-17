@@ -9,7 +9,7 @@
 [Ll]ogs/
 [Mm]emoryCaptures/
 
-# Recordings can be large and are rarely useful in git
+# Recordings can be large and are not often useful in git
 [Rr]ecordings/
 
 # ===============================
